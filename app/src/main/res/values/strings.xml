@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TaskProject</string>
+    <string name="food_title">food</string>
+    <string name="person_title">person</string>
+    <string name="add_food">Add Food</string>
+    <string name="add_person">Add Person</string>
+</resources>
